@@ -59,5 +59,7 @@
 ## 작성법
 * 이 문서 - [https://raw.github.com/softspot/study/gh-pages/doc/md-presentation.md](https://raw.github.com/softspot/study/gh-pages/doc/md-presentation.md)
 
+***
+
 ## Reference
 * [http://niceaji.tumblr.com/post/46225861013/markdown-reveal-js#_=_](http://niceaji.tumblr.com/post/46225861013/markdown-reveal-js#_=_)
