@@ -43,7 +43,7 @@
 ## Setup
 ![](http://softspot.github.io/study/doc/md-presentation/12.png)
 
-## [http://softspot.github.io/study/](http://softspot.github.io/study/)
+## [Sample](http://softspot.github.io/study/)
 ![](http://softspot.github.io/study/doc/md-presentation/13.png)
 
 ## PDF
