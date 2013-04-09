@@ -59,7 +59,8 @@
 ***
 
 ## 작성법
-* 이 문서 - [https://raw.github.com/softspot/study/gh-pages/doc/md-presentation.md](https://raw.github.com/softspot/study/gh-pages/doc/md-presentation.md)
+* Markdown
+* [https://raw.github.com/softspot/study/gh-pages/doc/md-presentation.md](https://raw.github.com/softspot/study/gh-pages/doc/md-presentation.md)
 
 ***
 
