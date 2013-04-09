@@ -4,47 +4,47 @@
 ***
 
 ## New repository
-![](http://softspot.github.com/study/doc/md-presentation/01.png)
+![](http://softspot.github.io/study/doc/md-presentation/01.png)
 
 ## New repository
-![](http://softspot.github.com/study/doc/md-presentation/02.png)
+![](http://softspot.github.io/study/doc/md-presentation/02.png)
 
 ## New repository
-![](http://softspot.github.com/study/doc/md-presentation/03.png)
+![](http://softspot.github.io/study/doc/md-presentation/03.png)
 
 ***
 
 ## Publish
-![](http://softspot.github.com/study/doc/md-presentation/04.png)
+![](http://softspot.github.io/study/doc/md-presentation/04.png)
 
 ## Publish
-![](http://softspot.github.com/study/doc/md-presentation/05.png)
+![](http://softspot.github.io/study/doc/md-presentation/05.png)
 
 ## Publish
-![](http://softspot.github.com/study/doc/md-presentation/06.png)
+![](http://softspot.github.io/study/doc/md-presentation/06.png)
 
 ## Publish
-![](http://softspot.github.com/study/doc/md-presentation/07.png)
+![](http://softspot.github.io/study/doc/md-presentation/07.png)
 
 ## Publish
-![](http://softspot.github.com/study/doc/md-presentation/08.png)
+![](http://softspot.github.io/study/doc/md-presentation/08.png)
 
 ## Publish
-![](http://softspot.github.com/study/doc/md-presentation/09.png)
+![](http://softspot.github.io/study/doc/md-presentation/09.png)
 
 ***
 
 ## Setup
-![](http://softspot.github.com/study/doc/md-presentation/10.png)
+![](http://softspot.github.io/study/doc/md-presentation/10.png)
 
 ## Setup
-![](http://softspot.github.com/study/doc/md-presentation/11.png)
+![](http://softspot.github.io/study/doc/md-presentation/11.png)
 
 ## Setup
-![](http://softspot.github.com/study/doc/md-presentation/12.png)
+![](http://softspot.github.io/study/doc/md-presentation/12.png)
 
-## [http://softspot.github.com/study/](http://softspot.github.com/study/)
-![](http://softspot.github.com/study/doc/md-presentation/13.png)
+## [http://softspot.github.io/study/](http://softspot.github.io/study/)
+![](http://softspot.github.io/study/doc/md-presentation/13.png)
 
 ## PDF
 [http://softspot.github.io/study/?doc=md-presentation](http://softspot.github.io/study/?doc=md-presentation&print-pdf "&print-pdf")*&print-pdf*
