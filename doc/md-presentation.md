@@ -52,9 +52,12 @@
 ***
 
 ## Key
-* arrow
-* space
+* arrow, hjkl(vi)
+* space, n
 * esc
+
+* s
+* b, .
 
 ***
 
