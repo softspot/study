@@ -8,14 +8,14 @@
 
 ## Why?
 
-![](file:///Users/spot/study/doc/phpbrew/01.png)
+![](http://softspot.github.io/study/doc/phpbrew/01.png)
 
 
 ## 요즘방식...
 
 [phptherightway](http://www.phptherightway.com/)
 
-![](file:///Users/spot/study/doc/phpbrew/02.png)
+![](http://softspot.github.io/study/doc/phpbrew/02.png)
 
 
 ## 내 환경
