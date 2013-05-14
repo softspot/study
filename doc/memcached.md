@@ -8,7 +8,7 @@ cache의 대명사
 
 ## Overview
 
-* memory + chache ?
+* memory + cache ?
 * [LiveJournal](http://code.livejournal.org/trac)(1999)을 개발한 Brad Fitzpatrick이 개발
 * 아마존, 위키피디아, 소스포지, 트위터에서 사용
 
