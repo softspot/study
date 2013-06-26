@@ -5,6 +5,7 @@ Unicode
 
 ***
 
+
 ## Character Set
 
 - charset
@@ -87,7 +88,11 @@ Unicode
 - Plane 번호 5비트, Cell 번호 16 (0000 ~ 10FFFF)
 - 5bit + 16bit = 21bit
 
+
+
 ***
+
+
 
 ## Unicode Encoding
 
@@ -131,6 +136,9 @@ Unicode
 
 ***
 
+
+
+
 ## 한글
 
 ![](http://softspot.github.io/study/doc/choseong/13.png)
@@ -169,7 +177,12 @@ Unicode
         }
         return result;
     }
+
+
+
 ***
+
+
 
 ## Reference
 - Unicode 의 이해 - [http://www.novonetworks.com/jamestic/Unicode_1.0.pdf](http://www.novonetworks.com/jamestic/Unicode_1.0.pdf)
