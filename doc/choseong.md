@@ -12,11 +12,11 @@ Unicode
 
 ## ASCII
 
-![](file:///Users/spot/study/doc/choseong/01.png)
+![](http://softspot.github.io/study/doc/choseong/01.png)
 
 ## KS C 5601
 
-![](file:///Users/spot/study/doc/choseong/02.png)
+![](http://softspot.github.io/study/doc/choseong/02.png)
 
 ## Character Encoding (encoding)
 
@@ -25,13 +25,13 @@ Unicode
 
 ## ASCII
 
-![](file:///Users/spot/study/doc/choseong/03.png)
+![](http://softspot.github.io/study/doc/choseong/03.png)
 
 - A = 0x41
 
 ## KS C 5601
 
-![](file:///Users/spot/study/doc/choseong/04.png)
+![](http://softspot.github.io/study/doc/choseong/04.png)
 
 - 0xB0
 - 0xC0 + 0x01 = 0xC1
@@ -50,7 +50,7 @@ Unicode
 
 ## UCS의 구조
 
-![](file:///Users/spot/study/doc/choseong/05.png)
+![](http://softspot.github.io/study/doc/choseong/05.png)
 
 ## UCS의 구조 - 용어
 
@@ -80,7 +80,7 @@ Unicode
 
 ## Code Point
 
-![](file:///Users/spot/study/doc/choseong/06.png)
+![](http://softspot.github.io/study/doc/choseong/06.png)
 
 - Unicode에서는 Group 00 하나만 사용하므로 Group 표기는 생략
 - Plane이 00인 경우도 Plane 값은 생략하고 Cell 값만 표기
@@ -91,31 +91,31 @@ Unicode
 
 ## Unicode Encoding
 
-![](file:///Users/spot/study/doc/choseong/07.png)
+![](http://softspot.github.io/study/doc/choseong/07.png)
 
 
 ## UTF-32
 
-![](file:///Users/spot/study/doc/choseong/08.png)
+![](http://softspot.github.io/study/doc/choseong/08.png)
 
 
 ## UTF-16
 
-![](file:///Users/spot/study/doc/choseong/09.png)
+![](http://softspot.github.io/study/doc/choseong/09.png)
 
 
 ## UTF-8 8bit ~ 16bit
 
-![](file:///Users/spot/study/doc/choseong/10.png)
+![](http://softspot.github.io/study/doc/choseong/10.png)
 
 ## UTF-8 24bit ~ 32bit
 
-![](file:///Users/spot/study/doc/choseong/11.png)
+![](http://softspot.github.io/study/doc/choseong/11.png)
 
 
 ## 예
 
-![](file:///Users/spot/study/doc/choseong/12.png)
+![](http://softspot.github.io/study/doc/choseong/12.png)
 
     AC00
 
@@ -133,7 +133,7 @@ Unicode
 
 ## 한글
 
-![](file:///Users/spot/study/doc/choseong/13.png)
+![](http://softspot.github.io/study/doc/choseong/13.png)
 
 ## 초성, 중성, 종성
 
